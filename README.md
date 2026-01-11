@@ -21,6 +21,6 @@ I work with SQL, Python, Excel, and Power BI to analyze datasets, build dashboar
 ## 🔹 Philosophy
 I believe in learning by building, documenting my work in public, and improving one step at a time. Every project here reflects practical problem-solving rather than theory alone.
 
-📌 Portfolio Website: (add your deployed link here)  
+📌 Portfolio Website:https://krishdatalab.github.io/krishdatalab-portfolio/
 📌 LinkedIn: https://www.linkedin.com/in/krish-datalab-2a43ba3a3/  
 📌 GitHub: https://github.com/KrishDataLab
