@@ -1,4 +1,4 @@
-# KrishDataLab – Data Analytics Portfolio
+# KrishDataLab  Data Analytics Portfolio
 
 KrishDataLab is my personal data analytics portfolio where I showcase real-world projects focused on transforming raw data into clear, actionable insights.
 
@@ -23,4 +23,4 @@ I believe in learning by building, documenting my work in public, and improving 
 
 📌 Portfolio Website:https://krishdatalab.github.io/krishdatalab-portfolio/
 📌 LinkedIn: https://www.linkedin.com/in/krish-datalab-2a43ba3a3/  
-📌 GitHub: https://github.com/KrishDataLab
+📌 GitHub: https://github.com/KrishDataLab 
