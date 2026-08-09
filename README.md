@@ -9,7 +9,7 @@ I work with SQL, Python, Excel, and Power BI to analyze datasets, build dashboar
 - SQL projects focused on data querying and insights  
 - Interactive dashboards using Power BI  
 - Python projects for data analysis, automation, and modeling  
-- Machine learning fundamentals and predictive models  
+- Machine learning fundamentals and predictive models       
 
 ## 🔹 Skills & Tools
 - Data Analysis & Visualization  
