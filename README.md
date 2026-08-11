@@ -4,7 +4,7 @@ KrishDataLab is my personal data analytics portfolio where I showcase real-world
 
 I work with SQL, Python, Excel, and Power BI to analyze datasets, build dashboards, and communicate findings in a business-friendly way. This repository documents my learning journey through hands-on projects, case studies, and continuous improvements.    
 
-## 🔹 What You’ll Find Here
+## 🔹 What You’ll Find Here  
 - Excel-based analysis and reporting projects  
 - SQL projects focused on data querying and insights  
 - Interactive dashboards using Power BI  
